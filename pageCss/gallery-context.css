@@ -7,11 +7,12 @@
         cursor: default;
         color: aliceblue;
         text-decoration: none;
-    }    
+    }
 
+/*
 .nav-menu a.currently-viewing::after {
     content: ' (current)';
-}
+}*/
 
 .scroll-top {
     position: fixed;
